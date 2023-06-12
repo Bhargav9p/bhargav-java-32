@@ -12,8 +12,7 @@ public class Reverse {
     }
     public static void main (String[] args){
         Reverse r=new Reverse();
-        int x;
-        x = r.reversing(876);
+        int x = r.reversing(100);
         System.out.println("reversing of the number :"+x);
     }
 }
